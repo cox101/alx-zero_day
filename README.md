@@ -1,1 +1,1 @@
-This is the README for the alx-zero_day repository.
+This is for the alx-zero_day repository. Simple  start
